@@ -1,0 +1,18 @@
+body {
+    background-size: cover;
+}
+
+#boton {
+    font-family: 'Fredoka';
+    font-size: 30px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    border: 3px;
+    border-style: solid;
+}
+
+
+h1 {
+    font-family: 'Fredoka';
+    font-size: 50px;
+}
